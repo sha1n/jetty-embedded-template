@@ -18,6 +18,13 @@
             </includes>
         </fileSet>
         <fileSet>
+            <directory>${project.basedir}/src/main/sh</directory>
+            <outputDirectory>/${app.dir.name}</outputDirectory>
+            <includes>
+                <include>/**/*</include>
+            </includes>
+        </fileSet>
+        <fileSet>
             <directory>${project.build.directory}/${package.fragments}/war</directory>
             <outputDirectory>/${app.dir.name}/war</outputDirectory>
             <excludes>
