@@ -41,3 +41,18 @@ Quick Demo Instructions
 
 * A sample Servlet 3 servlet implementation
 * Java class: org.juitar.servlet.TestServlet
+ 
+
+Running the main class from your IDE
+====================================
+1. Create a new run configuration
+2. Use org.juitar.jetty.Lanucher as 'main class'
+3. Make sure the working directory is set to the repository directory
+4. Run the app
+ 
+Deployment artifact
+===================
+the deployment artifact is built by the 'lancher' module. The build creates the final artifact in two formats the first is 'zip' and the second is an exploaded directory structure. After you run a build, you can take a look under the launcher/target directory - look for 'app-package' and 'app-package.zip'
+The 'app-package' contains 'start.bash' and 'start.sh' scripts, that you can review in order to see how to start the server.
+
+
