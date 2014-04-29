@@ -18,4 +18,3 @@ JAVA_OPTS="$JAVA_OPTS -Dconfiguration=production -Djetty.home=. -Djetty.logs=./l
 # Start Server
 "$JAVA_HOME/bin/java" $JAVA_OPTS -jar launcher-1.0-SNAPSHOT.jar
 
-
