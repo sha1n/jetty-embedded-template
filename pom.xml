@@ -33,7 +33,7 @@
         <easymock.version>3.2</easymock.version>
         <powermock.version>1.5.4</powermock.version>
 
-        <assembly.version>2.4</assembly.version>
+        <assembly.version>3.3.0</assembly.version>
     </properties>
 
     <build>
