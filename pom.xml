@@ -29,7 +29,7 @@
         <jax.rs.version>2.0</jax.rs.version>
         <jersey.version>2.32</jersey.version>
 
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13</junit.version>
         <easymock.version>3.2</easymock.version>
         <powermock.version>1.5.4</powermock.version>
 
