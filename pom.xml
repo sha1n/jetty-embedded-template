@@ -30,7 +30,7 @@
         <jersey.version>2.32</jersey.version>
 
         <junit.version>4.13</junit.version>
-        <easymock.version>3.2</easymock.version>
+        <easymock.version>4.2</easymock.version>
         <powermock.version>2.0.7</powermock.version>
 
         <assembly.version>3.3.0</assembly.version>
