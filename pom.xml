@@ -28,7 +28,6 @@
         <servlet.version>4.0.1</servlet.version>
         <jax.rs.version>2.1.1</jax.rs.version>
         <jersey.version>2.32</jersey.version>
-
         <junit.version>4.13.1</junit.version>
         <easymock.version>4.2</easymock.version>
         <powermock.version>2.0.7</powermock.version>
